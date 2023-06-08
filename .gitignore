@@ -1,5 +1,3 @@
-node_modules
-
 /build
 /public/build
 .env
@@ -8,3 +6,4 @@ node_modules
 /cypress/videos
 /prisma/data.db
 /prisma/data.db-journal
+node_modules/
